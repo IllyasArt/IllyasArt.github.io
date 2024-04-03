@@ -1,2 +1,6 @@
 title: IllyasArt
 theme: jekyll-theme-slate
+description: Site for news and information for IllyasArt.
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
